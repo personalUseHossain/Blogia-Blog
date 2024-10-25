@@ -11,8 +11,7 @@ Check out the live version of the project: [Blogia](https://blogia-blog.vercel.a
 ### User Section
 - **User Authentication**: Secure login and registration for users to access personalized features.
 - **Article Management**: Browse and read articles categorized by topics, with options to filter and search.
-- **Comments and Discussions**: Engage with articles by posting comments and replies, fostering community interaction.
-- **Bookmarking**: Save articles to your personal reading list for easy access later.
+- **Light/Dark Mode**: User can switch to light and dark theme
 - **Responsive Design**: A modern and user-friendly interface optimized for both desktop and mobile devices.
 
 ### Admin Section
@@ -26,6 +25,3 @@ Check out the live version of the project: [Blogia](https://blogia-blog.vercel.a
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
-
-## Acknowledgements
-- Thanks to the open-source community for their invaluable resources and tools that made this project possible.
